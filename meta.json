@@ -1,0 +1,23 @@
+{
+  "repo": "stable-diffusion-webui-creative-suite-pro-pack-ultimate",
+  "product": "Stable Diffusion WebUI Creative Suite Pro Pack Ultimate",
+  "kind": "ai",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "ai",
+  "topics": [
+    "stable-diffusion-webui",
+    "local-image-gen",
+    "checkpoint-models",
+    "controlnet-flow",
+    "offline-ai-art",
+    "stablediffusion-setup-failed-fix",
+    "how-to-install-stablediffusion",
+    "stablediffusion-windows",
+    "stablediffusion-desktop-2026",
+    "stablediffusion-desktop-package"
+  ],
+  "site": "toolix.me"
+}
